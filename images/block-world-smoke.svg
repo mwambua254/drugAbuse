@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1">
+      <stop stop-color="#b9d1c2"/>
+      <stop offset="1" stop-color="#e7d6ad"/>
+    </linearGradient>
+    <pattern id="pixels" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M0 0h32v32H0z" fill="none" stroke="#fff" stroke-opacity=".12" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h720v440H0z"/>
+  <path fill="#79967d" d="M0 244h120v-40h64v32h80v-55h80v62h72v-43h88v44h64v-28h60v28h92v196H0z"/>
+  <path fill="#6a805e" d="M0 307h720v133H0z"/>
+  <path fill="#8d7659" d="M0 352h720v88H0z"/>
+  <path fill="#9d8561" d="M0 380h720v60H0z"/>
+  <path fill="#ba7743" d="M303 336h112v18h-112z"/>
+  <path fill="#d7974d" d="M320 310h80v26h-80z"/>
+  <path fill="#f3c66f" d="M337 282h45v28h-45z"/>
+  <path fill="#f7df9d" d="M350 258h22v24h-22z"/>
+  <path fill="#695743" d="M286 350h142v18H286zM305 368h104v15H305z"/>
+  <path fill="#64736c" fill-opacity=".72" d="M352 247h25v-21h-14v-22h-21v-22h17v-24h-13v-24h24v-20h20v24h-14v22h22v24h-13v23h16v24h-19v19z"/>
+  <path fill="#78857e" fill-opacity=".45" d="M380 208h30v-22h-16v-24h20v-23h-12v-21h24v24h18v23h-14v22h17v22h-28v20h-19v-22h-20z"/>
+  <g shape-rendering="crispEdges">
+    <path fill="#634c39" d="M132 202h71v18h-71z"/>
+    <path fill="#d18e62" d="M146 144h47v53h-47z"/>
+    <path fill="#40372e" d="M140 130h59v23h-59zM132 144h14v22h-14z"/>
+    <path fill="#e2bb8b" d="M151 158h7v7h-7zM178 158h7v7h-7z"/>
+    <path fill="#485d4b" d="M132 218h71v62h-71z"/>
+    <path fill="#344b42" d="M132 280h30v48h-30zM174 280h29v48h-29z"/>
+    <path fill="#d6b88c" d="M202 228h25v9h-25z"/>
+    <path fill="#d4aa7b" d="M500 207h66v17h-66z"/>
+    <path fill="#e6c39b" d="M510 154h47v48h-47z"/>
+    <path fill="#584539" d="M503 140h59v20h-59z"/>
+    <path fill="#59463a" d="M511 169h8v8h-8zM539 169h8v8h-8z"/>
+    <path fill="#9c674b" d="M501 221h67v57h-67z"/>
+    <path fill="#564943" d="M501 278h29v48h-29zM539 278h29v48h-29z"/>
+    <path fill="#dfc092" d="M477 229h24v8h-24z"/>
+    <path fill="#c6946c" d="M292 160h65v17h-65z"/>
+    <path fill="#e9c79e" d="M302 112h46v43h-46z"/>
+    <path fill="#5b4b42" d="M296 100h57v18h-57z"/>
+    <path fill="#584b42" d="M306 128h7v7h-7zM333 128h7v7h-7z"/>
+    <path fill="#7b6855" d="M292 177h65v55h-65z"/>
+    <path fill="#524b42" d="M294 232h27v43h-27zM329 232h28v43h-28z"/>
+    <path fill="#c68e5d" d="M356 186h20v5h-20z"/>
+    <path fill="#c64e3c" d="M375 185h7v6h-7z"/>
+  </g>
+  <path fill="#dedbd1" fill-opacity=".87" d="M369 250h16v-13h-10v-14h14v-15h-9v-15h16v-14h14v17h-10v13h14v17h-9v15h-13v16h-13v-7zM408 198h17v-14h-9v-14h15v-16h-9v-15h17v16h13v15h-10v14h13v16h-18v15h-15v-16h-14z"/>
+  <path fill="#fff" fill-opacity=".6" d="M395 257h12v-8h-8v-8h12v-10h-8v-9h13v10h11v9h-8v9h11v10h-13v8h-11v-10h-11z"/>
+  <path fill="url(#pixels)" d="M0 0h720v440H0z"/>
+  <path fill="#172b28" fill-opacity=".74" d="M24 24h296v39H24z"/>
+  <text x="42" y="50" fill="#fff" font-family="sans-serif" font-size="16" font-weight="700" letter-spacing="2">A MOMENT TO STEP AWAY</text>
+</svg>

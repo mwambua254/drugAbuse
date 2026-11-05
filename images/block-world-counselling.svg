@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img">
+  <defs>
+    <linearGradient id="sky" x2="0" y2="1">
+      <stop stop-color="#b9d8d0"/>
+      <stop offset="1" stop-color="#eff0d9"/>
+    </linearGradient>
+    <pattern id="pixels" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M0 0h32v32H0z" fill="none" stroke="#fff" stroke-opacity=".14" stroke-width="2"/>
+    </pattern>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h720v440H0z"/>
+  <path fill="#8faf83" d="M0 284h720v156H0z"/>
+  <path fill="#d2c19a" d="M293 440 344 327h35l66 113z"/>
+  <g shape-rendering="crispEdges">
+    <path fill="#668b70" d="M33 251h46v33H33zM42 213h28v38H42zM48 181h17v32H48z"/>
+    <path fill="#91ab78" d="M21 247h21v29H21zM69 230h20v42H69z"/>
+    <path fill="#668b70" d="M635 252h48v32h-48zM644 214h30v38h-30zM651 182h17v32h-17z"/>
+    <path fill="#91ab78" d="M622 232h21v41h-21zM675 245h22v30h-22z"/>
+    <path fill="#b9a67d" d="M160 180h399v187H160z"/>
+    <path fill="#8eae88" d="M143 158h435v28H143z"/>
+    <path fill="#d7ccaa" d="M180 199h361v168H180z"/>
+    <path fill="#285b4c" d="M214 216h143v103H214z"/>
+    <path fill="#a8d1c5" d="M224 226h122v81H224z"/>
+    <path fill="#d7e5cd" d="M277 226h16v81h-16zM224 259h122v14h-122z"/>
+    <path fill="#285b4c" d="M385 216h129v103H385z"/>
+    <path fill="#b3d5ca" d="M395 226h109v81H395z"/>
+    <path fill="#d7e5cd" d="M442 226h15v81h-15zM395 259h109v14H395z"/>
+    <path fill="#9e754e" d="M307 281h99v86h-99z"/>
+    <path fill="#d6b581" d="M317 291h79v76h-79z"/>
+    <path fill="#694d38" d="M359 291h37v76h-37z"/>
+    <path fill="#e1c183" d="M384 326h7v7h-7z"/>
+    <path fill="#326351" d="M133 133h461v27H133z"/>
+    <path fill="#244a3e" d="M273 94h190v45H273z"/>
+    <path fill="#d9edae" d="M292 105h152v23H292z"/>
+    <path fill="#395d48" d="M116 367h477v15H116z"/>
+    <path fill="#6b8b68" d="M83 379h52v23H83zM580 379h52v23h-52z"/>
+    <path fill="#e4bd91" d="M268 324h30v33h-30z"/>
+    <path fill="#57483d" d="M263 315h40v15h-40z"/>
+    <path fill="#315c52" d="M262 357h43v42h-43z"/>
+    <path fill="#d8b27f" d="M420 324h30v33h-30z"/>
+    <path fill="#52453c" d="M416 315h40v15h-40z"/>
+    <path fill="#557968" d="M411 357h46v42h-46z"/>
+    <path fill="#a97753" d="M283 373h8v24h-8zM432 373h8v24h-8z"/>
+  </g>
+  <path fill="#fff" d="M294 106h148v21H294z"/>
+  <text x="368" y="121" fill="#285b4c" font-family="sans-serif" font-size="12" font-weight="700" letter-spacing="1.2" text-anchor="middle">GUIDANCE &amp; CARE</text>
+  <path fill="#172b28" fill-opacity=".72" d="M24 24h266v39H24z"/>
+  <text x="42" y="50" fill="#fff" font-family="sans-serif" font-size="16" font-weight="700" letter-spacing="2">A PLACE TO TALK</text>
+  <path fill="url(#pixels)" d="M0 0h720v440H0z"/>
+</svg>
